@@ -1,0 +1,22 @@
+
+# Keil build outputs
+Objects/
+Listings/
+*.axf
+*.hex
+*.elf
+*.o
+*.d
+*.crf
+*.dep
+*.htm
+*.lnp
+*.map
+*.build_log.htm
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
